@@ -1,0 +1,9 @@
+__init__.*
+*.cpython-*
+*.onnx
+*.json
+*.log
+*.pth
+.DS_Store
+*.pth
+*.pt
